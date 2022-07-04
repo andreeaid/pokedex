@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Pokemon';
+  src: local('Pokemon'), url(./fonts/Pokemon.ttf);
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2f8870;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+  /* width */
+::-webkit-scrollbar {
+  display: none;
+}
