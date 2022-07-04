@@ -20,6 +20,7 @@ export const Row = styled.div<{ $top: boolean; $long: boolean }>`
 	background-color: #eceeda;
 	margin-top: ${({ $top }) => ($top ? '4px' : '0px')};
 	width: ${({ $long }) => ($long ? '100%' : 'calc(50% - 2px)')};
+	min-height: 76px;
 
 	@media (max-width: 700px) {
 		margin-top: ${({ $top }) => ($top ? '8px' : '0px')};

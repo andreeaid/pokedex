@@ -15,7 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <img width="1000" alt="Screen Shot 2022-07-08 at 4 28 28 PM" src="https://user-images.githubusercontent.com/9919375/178068833-1b570f08-2138-4cb9-abf1-ca8ca77d4eb0.png">
 <img width="1000" alt="Screen Shot 2022-07-08 at 4 54 21 PM" src="https://user-images.githubusercontent.com/9919375/178068911-7214d3bf-5ddd-4782-8ba3-d0e8237e670e.png">
 
-
 ## Mobile
 
 <p float="left">

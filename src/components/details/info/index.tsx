@@ -51,7 +51,7 @@ const Info: React.FC<{ type: Array<string>; profile: Profile; species: string }>
 					</InfoRow>
 					<InfoRow $top={false}>
 						<span>
-							Weights {profile.weight} at {profile.height}
+							Weighs {profile.weight} at {profile.height}
 						</span>
 					</InfoRow>
 				</InfoSection>
